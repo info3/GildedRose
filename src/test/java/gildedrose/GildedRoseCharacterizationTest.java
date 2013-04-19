@@ -61,7 +61,7 @@ public class GildedRoseCharacterizationTest {
 	public void qualityOfItemShouldNeverBeNegative() {
 		Item item = updateQuality(new Item("anything", 5, 0));
 
-		assertEquals(item.getSellIn(), 4);
+	//	assertEquals(item.getSellIn(), 4);
 		assertEquals(0, item.getQuality());
 
 	}

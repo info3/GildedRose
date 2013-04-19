@@ -1,9 +1,9 @@
 package gildedrose.parameterized;
 
 import static org.junit.Assert.assertEquals;
-import gildedrose.original.GildedRose;
-import gildedrose.original.Item;
-import gildedrose.original.ItemFactory;
+import gildedrose.goblinignored.GildedRose;
+import gildedrose.goblinignored.Item;
+import gildedrose.goblinignored.ItemFactory;
 
 import java.util.ArrayList;
 import java.util.Arrays;
